@@ -27,9 +27,15 @@ MPU_GYRO_XOUT_H = 0x43
 # MPU I2C addresses to try
 MPU_ADDRESSES = [0x68, 0x69]
 
+# I2C timeout in microseconds (8ms = 8000us, allows time for slow I2C transactions)
+I2C_TIMEOUT_US = 8000
+
 # Scale factors (assuming default config: ±2g accel, ±250deg/s gyro)
 ACCEL_SCALE = 16384.0  # LSB/g for ±2g range
 GYRO_SCALE = 131.0     # LSB/(deg/s) for ±250deg/s range
+
+# Display constants
+MAX_ERROR_CHARS = 28  # Maximum characters for error message to fit on screen
 
 
 class MPUReader:
@@ -119,7 +125,7 @@ def try_init_imu():
     """Try to initialize IMU on standard Cardputer I2C pins."""
     # Initialize I2C with Cardputer pins (SDA=2, SCL=1)
     try:
-        i2c = I2C(0, sda=Pin(2), scl=Pin(1), freq=100000, timeout=8000)
+        i2c = I2C(0, sda=Pin(2), scl=Pin(1), freq=100000, timeout=I2C_TIMEOUT_US)
     except Exception as e:
         return None, f"I2C init failed: {e}"
     
@@ -174,7 +180,7 @@ def main():
         display.fill(bg_color)
         status_bar.draw(display)
         display.text("IMU Error:", 5, 20, highlight_color, font=font)
-        display.text(error[:28], 5, 40, fg_color, font=font)
+        display.text(error[:MAX_ERROR_CHARS], 5, 40, fg_color, font=font)
         display.text("Press G0 to exit", 5, 100, fg_color, font=font)
         display.show()
         

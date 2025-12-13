@@ -17,6 +17,10 @@ from lib.userinput import UserInput
 from font import vga2_16x32 as large_font
 from font import vga1_8x16 as medium_font
 
+# Font constants
+LARGE_FONT_WIDTH = 16  # vga2_16x32 character width
+MEDIUM_FONT_WIDTH = 8  # vga1_8x16 character width
+
 
 def main():
     """Main clock app loop."""
@@ -61,8 +65,8 @@ def main():
             status_bar.draw(display)
             
             # Calculate position to center the large clock
-            # Large font is 16x32, time string is 8 chars = 128px wide
-            time_width = len(time_str) * 16
+            # Large font is 16x32, time string length varies
+            time_width = len(time_str) * LARGE_FONT_WIDTH
             clock_x = (display.width - time_width) // 2
             
             # Center vertically in remaining space below status bar
@@ -74,7 +78,7 @@ def main():
             
             # Add a small label
             label = "Press G0 to exit"
-            label_width = len(label) * 8
+            label_width = len(label) * MEDIUM_FONT_WIDTH
             label_x = (display.width - label_width) // 2
             label_y = display.height - 20
             display.text(label, label_x, label_y, fg_color, font=medium_font)
