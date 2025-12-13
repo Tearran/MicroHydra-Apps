@@ -1,0 +1,23 @@
+author: MicroHydra Community
+author_link: "https://github.com/Tearran/MicroHydra-Apps"
+license: MIT
+license_link: https://github.com/Tearran/MicroHydra-Apps/blob/main/LICENSE
+app_version: 1.0
+
+short_description: Simple live clock display
+
+description: |
+  A minimalist clock app that displays a large live clock in the center.
+  Updates once per second and shows HH:MM:SS format.
+  
+  Demonstrates use of the shared status bar module showing time and battery
+  in the toolbar while the main area displays a large clock.
+
+installation_instructions: |
+  Copy the app into your `/apps` folder.
+  
+  Note: Device time should be set via launcher or NTP for accurate display.
+
+
+devices:
+- Cardputer

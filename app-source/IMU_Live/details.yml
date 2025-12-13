@@ -1,0 +1,26 @@
+author: MicroHydra Community
+author_link: "https://github.com/Tearran/MicroHydra-Apps"
+license: MIT
+license_link: https://github.com/Tearran/MicroHydra-Apps/blob/main/LICENSE
+app_version: 1.0
+
+short_description: Live IMU sensor readout
+
+description: |
+  Displays live accelerometer and gyroscope data from an MPU-family IMU sensor.
+  Shows accel X/Y/Z (in g), gyro X/Y/Z (in deg/s), and computed pitch/roll angles.
+  Auto-detects MPU sensors at I2C addresses 0x68 or 0x69.
+  
+  Demonstrates use of the shared status bar module.
+
+installation_instructions: |
+  Copy the app into your `/apps` folder.
+  
+  Requires an MPU-family IMU sensor (MPU6050/MPU6500) connected via I2C.
+  For Cardputer: SDA=Pin 2, SCL=Pin 1.
+  
+  Note: Device time should be set via launcher or NTP for accurate time display.
+
+
+devices:
+- Cardputer
