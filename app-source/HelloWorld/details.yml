@@ -8,7 +8,7 @@ short_description: A simple Hello World application
 
 description: |
   A simple Hello World application that displays "Hello World" on the screen.
-  Press the GO or ENT key to exit back to the main launcher.
+  Press the G0 key to exit back to the main launcher.
 
 installation_instructions: |
   Copy the HelloWorld.py file into your `/apps` folder on the MicroHydra device.
