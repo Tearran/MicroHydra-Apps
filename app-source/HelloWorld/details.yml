@@ -1,0 +1,18 @@
+author: MicroHydra Community
+author_link: "https://github.com/Tearran/MicroHydra-Apps"
+license: MIT
+license_link: "https://github.com/echo-lalia/MicroHydra-Apps/blob/main/LICENSE"
+app_version: 1.0
+
+short_description: A simple Hello World application
+
+description: |
+  A simple Hello World application that displays "Hello World" on the screen.
+  Press the GO or ENT key to exit back to the main launcher.
+
+installation_instructions: |
+  Copy the HelloWorld.py file into your `/apps` folder on the MicroHydra device.
+
+devices:
+- Cardputer
+- TDeck
