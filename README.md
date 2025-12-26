@@ -63,7 +63,7 @@ For clarity, this is how the `app-source` folder is structured:
 
 # Apps by device:  
 
-*This repo currently hosts **25** apps, for **2** unique devices, by **12** different authors.*  
+*This repo currently hosts **26** apps, for **2** unique devices, by **13** different authors.*  
 *Click a link below to jump to the apps for that specific device.*
 
 - [Cardputer](#cardputer)
@@ -73,133 +73,19 @@ For clarity, this is how the `app-source` folder is structured:
 <br/><br/><br/>        
 
 ## Cardputer  
-*There are 25 apps for the Cardputer.*
+*There are 26 apps for the Cardputer.*
 
 
-### <img src="images/default_icon.png" width="14"> [REPL](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/REPL)  
-> <img src="https://github.com/shakna-israel.png?size=20" width="10"> **[shakna-israel](https://github.com/shakna-israel)**  
-> Version: **1.0** | License: **[3-Clause-BSD](https://github.com/shakna-israel/MicroHydra-Apps/tree/main/app-source/REPL/LICENSE.md)**  
-> A simple Python REPL
-<br/>
-
-### <img src="images/default_icon.png" width="14"> [NumScript](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/NumScript)  
-> <img src="https://github.com/JustABreathingHuman.png?size=20" width="10"> **[JustABreathingHuman](https://github.com/JustABreathingHuman)**  
-> Version: **1.0** | License: **[MIT](https://github.com/JustABreathingHuman/MicroHydra-Apps/blob/main/LICENSE)**  
-> Scripting app
-<br/>
-
-### <img src="images/default_icon.png" width="14"> [StrobeLight](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/StrobeLight)  
->  **occulta1337**  
-> Version: **1.0** | License: **?**  
-> Warning: Can cause nausea and trigger seizures in individuals with photosensitive epilepsy
-<br/>
-
-### <img src="images/default_icon.png" width="14"> [RadarSignal](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/RadarSignal)  
->  **occulta1337**  
-> Version: **1.0** | License: **?**  
-> A radar simulation for MicroHydra.
-<br/>
-
-### <img src="images/default_icon.png" width="14"> [MatrixRain](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/MatrixRain)  
->  **occulta1337**  
-> Version: **1.0** | License: **?**  
-> Simulates the famous "Matrix rain" effect.
-<br/>
-
-### <img src="images/default_icon.png" width="14"> [Calculator](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/Calculator)  
-> <img src="https://github.com/Kimka-x37.png?size=20" width="10"> **[Kimka-x37](https://github.com/Kimka-x37)**  
-> Version: **1.0** | License: **[MIT](https://github.com/Kimka-x37/MicroHydra-Simple-calculator/blob/main/LICENSE)**  
-> Simple calculator
-<br/>
-
-### <img src="images/default_icon.png" width="14"> [CO2_SCD40](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/CO2_SCD40)  
-> <img src="https://github.com/jaycee14.png?size=20" width="10"> **[jaycee14](https://github.com/jaycee14)**  
+### <img src="images/default_icon.png" width="14"> [HelloWorld](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/HelloWorld)  
+> <img src="https://github.com/Tearran/MicroHydra-Apps.png?size=20" width="10"> **[MicroHydra Community](https://github.com/Tearran/MicroHydra-Apps)**  
 > Version: **1.0** | License: **[MIT](https://github.com/echo-lalia/MicroHydra-Apps/blob/main/LICENSE)**  
-> Read CO2 from SCD40
-<br/>
-
-### <img src="images/default_icon.png" width="14"> [MHBasic](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/MHBasic)  
-> <img src="https://github.com/RealClearwave.png?size=20" width="10"> **[RealClearwave](https://github.com/RealClearwave)**  
-> Version: **1.2** | License: **[MIT](https://github.com/echo-lalia/MicroHydra-Apps/blob/main/LICENSE)**  
-> A BASIC interpreter and REPL
+> A simple Hello World application
 <br/>
 
 ### <img src="images/default_icon.png" width="14"> [Wikipedia](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/Wikipedia)  
 > <img src="https://github.com/echo-lalia.png?size=20" width="10"> **[echo-lalia](https://github.com/echo-lalia)**  
 > Version: **2.1** | License: **[MIT](https://github.com/echo-lalia/MicroHydra-Apps/blob/main/LICENSE)**  
 > Fetch Wikipedia article summaries
-<br/>
-
-### <img src="images/default_icon.png" width="14"> [Fish](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/Fish)  
-> <img src="https://github.com/ruscoe.png?size=20" width="10"> **[Dan Ruscoe](https://github.com/ruscoe)**  
-> Version: **1.0** | License: **[MIT](https://github.com/echo-lalia/MicroHydra-Apps/blob/main/LICENSE)**  
-> A virtual fish app
-<br/>
-
-### <img src="images/icons/BoidSim.png" width="14"> [BoidSim](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/BoidSim)  
-> <img src="https://github.com/echo-lalia.png?size=20" width="10"> **[echo-lalia](https://github.com/echo-lalia)**  
-> Version: **1.1** | License: **[MIT](https://github.com/echo-lalia/MicroHydra-Apps/blob/main/LICENSE)**  
-> Watch a boid simulation unfold.
-<br/>
-
-### <img src="images/default_icon.png" width="14"> [flappyStamp](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/flappyStamp)  
-> <img src="https://github.com/echo-lalia.png?size=20" width="10"> **[echo-lalia](https://github.com/echo-lalia)**  
-> Version: **2.1** | License: **[MIT](https://github.com/echo-lalia/MicroHydra-Apps/blob/main/LICENSE)**  
-> A simple game for the Cardputer
-<br/>
-
-### <img src="images/icons/GameOfLife.png" width="14"> [GameOfLife](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/GameOfLife)  
-> <img src="https://github.com/echo-lalia.png?size=20" width="10"> **[echo-lalia](https://github.com/echo-lalia)**  
-> Version: **2.1** | License: **[MIT](https://github.com/echo-lalia/MicroHydra-Apps/blob/main/LICENSE)**  
-> Conway's Game of Life
-<br/>
-
-### <img src="images/default_icon.png" width="14"> [timer](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/timer)  
-> <img src="https://github.com/foopod.png?size=20" width="10"> **[foopod](https://github.com/foopod)**  
-> Version: **1.0** | License: **?**  
-> A kitchen timer app.
-<br/>
-
-### <img src="images/default_icon.png" width="14"> [LowPowerClock](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/LowPowerClock)  
-> <img src="https://github.com/echo-lalia.png?size=20" width="10"> **[echo-lalia](https://github.com/echo-lalia)**  
-> Version: **1.0** | License: **[MIT](https://github.com/echo-lalia/MicroHydra-Apps/blob/main/LICENSE)**  
-> Another simple clock app.
-<br/>
-
-### <img src="images/icons/tinyknight.png" width="14"> [tinyknight](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/tinyknight)  
-> <img src="https://github.com/foopod.png?size=20" width="10"> **[foopod](https://github.com/foopod)**  
-> Version: **1.0** | License: **?**  
-> A game by Jono Shields
-<br/>
-
-### <img src="images/default_icon.png" width="14"> [FancyClock](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/FancyClock)  
-> <img src="https://github.com/echo-lalia.png?size=20" width="10"> **[echo-lalia](https://github.com/echo-lalia)**  
-> Version: **1.2** | License: **[MIT](https://github.com/echo-lalia/MicroHydra-Apps/blob/main/LICENSE)**  
-> A clock app
-<br/>
-
-### <img src="images/default_icon.png" width="14"> [mystify](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/mystify)  
-> <img src="https://github.com/melange396.png?size=20" width="10"> **[melange396](https://github.com/melange396)**  
-> Version: **1.0** | License: **[MIT](https://github.com/echo-lalia/MicroHydra-Apps/blob/main/LICENSE)**  
-> A moving polygon screensaver app
-<br/>
-
-### <img src="images/default_icon.png" width="14"> [KanjiReader](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/KanjiReader)  
-> <img src="https://github.com/RealClearwave.png?size=20" width="10"> **[RealClearwave](https://github.com/RealClearwave)**  
-> Version: **1.1** | License: **[MIT](https://github.com/echo-lalia/MicroHydra-Apps/blob/main/LICENSE)**  
-> A reader that can display kanji.
-<br/>
-
-### <img src="images/default_icon.png" width="14"> [chaosDice](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/chaosDice)  
-> <img src="https://github.com/echo-lalia.png?size=20" width="10"> **[echo-lalia](https://github.com/echo-lalia)**  
-> Version: **2.0** | License: **[MIT](https://github.com/echo-lalia/MicroHydra-Apps/blob/main/LICENSE)**  
-> A dice rolling app
-<br/>
-
-### <img src="images/default_icon.png" width="14"> [Connect](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/Connect)  
-> <img src="https://github.com/RealClearwave.png?size=20" width="10"> **[RealClearwave](https://github.com/RealClearwave)**  
-> Version: **1.0** | License: **[MIT](https://github.com/echo-lalia/MicroHydra-Apps/blob/main/LICENSE)**  
-> MicroHydra Connectivity Kit
 <br/>
 
 ### <img src="images/icons/Music.png" width="14"> [Music](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/Music)  
@@ -208,36 +94,16 @@ For clarity, this is how the `app-source` folder is structured:
 > A music player app.
 <br/>
 
-### <img src="images/default_icon.png" width="14"> [HackSim](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/HackSim)  
+### <img src="images/default_icon.png" width="14"> [MatrixRain](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/MatrixRain)  
 >  **occulta1337**  
 > Version: **1.0** | License: **?**  
-> Simple Hack Simulation for MicroHydra
+> Simulates the famous "Matrix rain" effect.
 <br/>
 
-### <img src="images/icons/InfraRed.png" width="14"> [InfraRed](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/InfraRed)  
-> <img src="https://github.com/ndrnmnk.png?size=20" width="10"> **[ndrnmnk](https://github.com/ndrnmnk)**  
-> Version: **1.0** | License: **?**  
-> Infrared codes sender/reciever app.
-<br/>
-
-### <img src="images/default_icon.png" width="14"> [mmlPlay](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/mmlPlay)  
-> <img src="https://github.com/RealClearwave.png?size=20" width="10"> **[RealClearwave](https://github.com/RealClearwave)**  
-> Version: **1.1** | License: **[MIT](https://github.com/echo-lalia/MicroHydra-Apps/blob/main/LICENSE)**  
-> Music Macro Language player
-<br/>
-
-
-
-<br/><br/><br/>        
-
-## Tdeck  
-*There are 9 apps for the Tdeck.*
-
-
-### <img src="images/default_icon.png" width="14"> [StrobeLight](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/StrobeLight)  
->  **occulta1337**  
-> Version: **1.0** | License: **?**  
-> Warning: Can cause nausea and trigger seizures in individuals with photosensitive epilepsy
+### <img src="images/default_icon.png" width="14"> [NumScript](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/NumScript)  
+> <img src="https://github.com/JustABreathingHuman.png?size=20" width="10"> **[JustABreathingHuman](https://github.com/JustABreathingHuman)**  
+> Version: **1.0** | License: **[MIT](https://github.com/JustABreathingHuman/MicroHydra-Apps/blob/main/LICENSE)**  
+> Scripting app
 <br/>
 
 ### <img src="images/default_icon.png" width="14"> [RadarSignal](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/RadarSignal)  
@@ -246,34 +112,28 @@ For clarity, this is how the `app-source` folder is structured:
 > A radar simulation for MicroHydra.
 <br/>
 
-### <img src="images/default_icon.png" width="14"> [MatrixRain](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/MatrixRain)  
->  **occulta1337**  
-> Version: **1.0** | License: **?**  
-> Simulates the famous "Matrix rain" effect.
-<br/>
-
-### <img src="images/default_icon.png" width="14"> [Wikipedia](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/Wikipedia)  
-> <img src="https://github.com/echo-lalia.png?size=20" width="10"> **[echo-lalia](https://github.com/echo-lalia)**  
-> Version: **2.1** | License: **[MIT](https://github.com/echo-lalia/MicroHydra-Apps/blob/main/LICENSE)**  
-> Fetch Wikipedia article summaries
-<br/>
-
-### <img src="images/icons/BoidSim.png" width="14"> [BoidSim](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/BoidSim)  
-> <img src="https://github.com/echo-lalia.png?size=20" width="10"> **[echo-lalia](https://github.com/echo-lalia)**  
-> Version: **1.1** | License: **[MIT](https://github.com/echo-lalia/MicroHydra-Apps/blob/main/LICENSE)**  
-> Watch a boid simulation unfold.
-<br/>
-
 ### <img src="images/icons/GameOfLife.png" width="14"> [GameOfLife](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/GameOfLife)  
 > <img src="https://github.com/echo-lalia.png?size=20" width="10"> **[echo-lalia](https://github.com/echo-lalia)**  
 > Version: **2.1** | License: **[MIT](https://github.com/echo-lalia/MicroHydra-Apps/blob/main/LICENSE)**  
 > Conway's Game of Life
 <br/>
 
-### <img src="images/default_icon.png" width="14"> [FancyClock](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/FancyClock)  
+### <img src="images/default_icon.png" width="14"> [REPL](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/REPL)  
+> <img src="https://github.com/shakna-israel.png?size=20" width="10"> **[shakna-israel](https://github.com/shakna-israel)**  
+> Version: **1.0** | License: **[3-Clause-BSD](https://github.com/shakna-israel/MicroHydra-Apps/tree/main/app-source/REPL/LICENSE.md)**  
+> A simple Python REPL
+<br/>
+
+### <img src="images/default_icon.png" width="14"> [chaosDice](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/chaosDice)  
 > <img src="https://github.com/echo-lalia.png?size=20" width="10"> **[echo-lalia](https://github.com/echo-lalia)**  
-> Version: **1.2** | License: **[MIT](https://github.com/echo-lalia/MicroHydra-Apps/blob/main/LICENSE)**  
-> A clock app
+> Version: **2.0** | License: **[MIT](https://github.com/echo-lalia/MicroHydra-Apps/blob/main/LICENSE)**  
+> A dice rolling app
+<br/>
+
+### <img src="images/icons/tinyknight.png" width="14"> [tinyknight](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/tinyknight)  
+> <img src="https://github.com/foopod.png?size=20" width="10"> **[foopod](https://github.com/foopod)**  
+> Version: **1.0** | License: **?**  
+> A game by Jono Shields
 <br/>
 
 ### <img src="images/default_icon.png" width="14"> [mystify](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/mystify)  
@@ -282,9 +142,161 @@ For clarity, this is how the `app-source` folder is structured:
 > A moving polygon screensaver app
 <br/>
 
+### <img src="images/default_icon.png" width="14"> [Connect](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/Connect)  
+> <img src="https://github.com/RealClearwave.png?size=20" width="10"> **[RealClearwave](https://github.com/RealClearwave)**  
+> Version: **1.0** | License: **[MIT](https://github.com/echo-lalia/MicroHydra-Apps/blob/main/LICENSE)**  
+> MicroHydra Connectivity Kit
+<br/>
+
+### <img src="images/default_icon.png" width="14"> [timer](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/timer)  
+> <img src="https://github.com/foopod.png?size=20" width="10"> **[foopod](https://github.com/foopod)**  
+> Version: **1.0** | License: **?**  
+> A kitchen timer app.
+<br/>
+
+### <img src="images/default_icon.png" width="14"> [CO2_SCD40](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/CO2_SCD40)  
+> <img src="https://github.com/jaycee14.png?size=20" width="10"> **[jaycee14](https://github.com/jaycee14)**  
+> Version: **1.0** | License: **[MIT](https://github.com/echo-lalia/MicroHydra-Apps/blob/main/LICENSE)**  
+> Read CO2 from SCD40
+<br/>
+
+### <img src="images/default_icon.png" width="14"> [FancyClock](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/FancyClock)  
+> <img src="https://github.com/echo-lalia.png?size=20" width="10"> **[echo-lalia](https://github.com/echo-lalia)**  
+> Version: **1.2** | License: **[MIT](https://github.com/echo-lalia/MicroHydra-Apps/blob/main/LICENSE)**  
+> A clock app
+<br/>
+
+### <img src="images/default_icon.png" width="14"> [mmlPlay](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/mmlPlay)  
+> <img src="https://github.com/RealClearwave.png?size=20" width="10"> **[RealClearwave](https://github.com/RealClearwave)**  
+> Version: **1.1** | License: **[MIT](https://github.com/echo-lalia/MicroHydra-Apps/blob/main/LICENSE)**  
+> Music Macro Language player
+<br/>
+
+### <img src="images/default_icon.png" width="14"> [KanjiReader](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/KanjiReader)  
+> <img src="https://github.com/RealClearwave.png?size=20" width="10"> **[RealClearwave](https://github.com/RealClearwave)**  
+> Version: **1.1** | License: **[MIT](https://github.com/echo-lalia/MicroHydra-Apps/blob/main/LICENSE)**  
+> A reader that can display kanji.
+<br/>
+
+### <img src="images/icons/BoidSim.png" width="14"> [BoidSim](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/BoidSim)  
+> <img src="https://github.com/echo-lalia.png?size=20" width="10"> **[echo-lalia](https://github.com/echo-lalia)**  
+> Version: **1.1** | License: **[MIT](https://github.com/echo-lalia/MicroHydra-Apps/blob/main/LICENSE)**  
+> Watch a boid simulation unfold.
+<br/>
+
+### <img src="images/default_icon.png" width="14"> [Fish](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/Fish)  
+> <img src="https://github.com/ruscoe.png?size=20" width="10"> **[Dan Ruscoe](https://github.com/ruscoe)**  
+> Version: **1.0** | License: **[MIT](https://github.com/echo-lalia/MicroHydra-Apps/blob/main/LICENSE)**  
+> A virtual fish app
+<br/>
+
+### <img src="images/default_icon.png" width="14"> [flappyStamp](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/flappyStamp)  
+> <img src="https://github.com/echo-lalia.png?size=20" width="10"> **[echo-lalia](https://github.com/echo-lalia)**  
+> Version: **2.1** | License: **[MIT](https://github.com/echo-lalia/MicroHydra-Apps/blob/main/LICENSE)**  
+> A simple game for the Cardputer
+<br/>
+
+### <img src="images/default_icon.png" width="14"> [LowPowerClock](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/LowPowerClock)  
+> <img src="https://github.com/echo-lalia.png?size=20" width="10"> **[echo-lalia](https://github.com/echo-lalia)**  
+> Version: **1.0** | License: **[MIT](https://github.com/echo-lalia/MicroHydra-Apps/blob/main/LICENSE)**  
+> Another simple clock app.
+<br/>
+
+### <img src="images/default_icon.png" width="14"> [HackSim](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/HackSim)  
+>  **occulta1337**  
+> Version: **1.0** | License: **?**  
+> Simple Hack Simulation for MicroHydra
+<br/>
+
+### <img src="images/default_icon.png" width="14"> [MHBasic](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/MHBasic)  
+> <img src="https://github.com/RealClearwave.png?size=20" width="10"> **[RealClearwave](https://github.com/RealClearwave)**  
+> Version: **1.2** | License: **[MIT](https://github.com/echo-lalia/MicroHydra-Apps/blob/main/LICENSE)**  
+> A BASIC interpreter and REPL
+<br/>
+
+### <img src="images/default_icon.png" width="14"> [InfraRed](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/InfraRed)  
+> <img src="https://github.com/ndrnmnk.png?size=20" width="10"> **[ndrnmnk](https://github.com/ndrnmnk)**  
+> Version: **1.0** | License: **?**  
+> Infrared codes sender/reciever app.
+<br/>
+
+### <img src="images/default_icon.png" width="14"> [StrobeLight](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/StrobeLight)  
+>  **occulta1337**  
+> Version: **1.0** | License: **?**  
+> Warning: Can cause nausea and trigger seizures in individuals with photosensitive epilepsy
+<br/>
+
+### <img src="images/default_icon.png" width="14"> [Calculator](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/Calculator)  
+> <img src="https://github.com/Kimka-x37.png?size=20" width="10"> **[Kimka-x37](https://github.com/Kimka-x37)**  
+> Version: **1.0** | License: **[MIT](https://github.com/Kimka-x37/MicroHydra-Simple-calculator/blob/main/LICENSE)**  
+> Simple calculator
+<br/>
+
+
+
+<br/><br/><br/>        
+
+## Tdeck  
+*There are 10 apps for the Tdeck.*
+
+
+### <img src="images/default_icon.png" width="14"> [HelloWorld](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/HelloWorld)  
+> <img src="https://github.com/Tearran/MicroHydra-Apps.png?size=20" width="10"> **[MicroHydra Community](https://github.com/Tearran/MicroHydra-Apps)**  
+> Version: **1.0** | License: **[MIT](https://github.com/echo-lalia/MicroHydra-Apps/blob/main/LICENSE)**  
+> A simple Hello World application
+<br/>
+
+### <img src="images/default_icon.png" width="14"> [Wikipedia](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/Wikipedia)  
+> <img src="https://github.com/echo-lalia.png?size=20" width="10"> **[echo-lalia](https://github.com/echo-lalia)**  
+> Version: **2.1** | License: **[MIT](https://github.com/echo-lalia/MicroHydra-Apps/blob/main/LICENSE)**  
+> Fetch Wikipedia article summaries
+<br/>
+
+### <img src="images/default_icon.png" width="14"> [MatrixRain](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/MatrixRain)  
+>  **occulta1337**  
+> Version: **1.0** | License: **?**  
+> Simulates the famous "Matrix rain" effect.
+<br/>
+
+### <img src="images/default_icon.png" width="14"> [RadarSignal](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/RadarSignal)  
+>  **occulta1337**  
+> Version: **1.0** | License: **?**  
+> A radar simulation for MicroHydra.
+<br/>
+
+### <img src="images/icons/GameOfLife.png" width="14"> [GameOfLife](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/GameOfLife)  
+> <img src="https://github.com/echo-lalia.png?size=20" width="10"> **[echo-lalia](https://github.com/echo-lalia)**  
+> Version: **2.1** | License: **[MIT](https://github.com/echo-lalia/MicroHydra-Apps/blob/main/LICENSE)**  
+> Conway's Game of Life
+<br/>
+
 ### <img src="images/default_icon.png" width="14"> [chaosDice](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/chaosDice)  
 > <img src="https://github.com/echo-lalia.png?size=20" width="10"> **[echo-lalia](https://github.com/echo-lalia)**  
 > Version: **2.0** | License: **[MIT](https://github.com/echo-lalia/MicroHydra-Apps/blob/main/LICENSE)**  
 > A dice rolling app
+<br/>
+
+### <img src="images/default_icon.png" width="14"> [mystify](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/mystify)  
+> <img src="https://github.com/melange396.png?size=20" width="10"> **[melange396](https://github.com/melange396)**  
+> Version: **1.0** | License: **[MIT](https://github.com/echo-lalia/MicroHydra-Apps/blob/main/LICENSE)**  
+> A moving polygon screensaver app
+<br/>
+
+### <img src="images/default_icon.png" width="14"> [FancyClock](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/FancyClock)  
+> <img src="https://github.com/echo-lalia.png?size=20" width="10"> **[echo-lalia](https://github.com/echo-lalia)**  
+> Version: **1.2** | License: **[MIT](https://github.com/echo-lalia/MicroHydra-Apps/blob/main/LICENSE)**  
+> A clock app
+<br/>
+
+### <img src="images/icons/BoidSim.png" width="14"> [BoidSim](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/BoidSim)  
+> <img src="https://github.com/echo-lalia.png?size=20" width="10"> **[echo-lalia](https://github.com/echo-lalia)**  
+> Version: **1.1** | License: **[MIT](https://github.com/echo-lalia/MicroHydra-Apps/blob/main/LICENSE)**  
+> Watch a boid simulation unfold.
+<br/>
+
+### <img src="images/default_icon.png" width="14"> [StrobeLight](https://github.com/echo-lalia/MicroHydra-Apps/tree/main/app-source/StrobeLight)  
+>  **occulta1337**  
+> Version: **1.0** | License: **?**  
+> Warning: Can cause nausea and trigger seizures in individuals with photosensitive epilepsy
 <br/>
 
