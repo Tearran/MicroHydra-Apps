@@ -1,20 +1,25 @@
-<!---
-This file is generated from the "details.yml" file. (Any changes here will be overwritten)
---->
-# <img src="../../images/default_icon.png" width="16"> HelloWorld
-> ### <img src="https://github.com/Tearran/MicroHydra-Apps.png?size=26" width="13"> **[MicroHydra Community](https://github.com/Tearran/MicroHydra-Apps)**  
-> Version: **1.0** | License: **[MIT](https://github.com/echo-lalia/MicroHydra-Apps/blob/main/LICENSE)**  
-> App name: **HelloWorld**
-<br/>
+# Hello World
 
-A simple Hello World application that displays "Hello World" on the screen.
-Press the GO or ENT key to exit back to the main launcher.
+A simple Hello World application for MicroHydra.
 
+## Description
 
-<br/><br/>
+This app displays "Hello World" on the screen and allows you to exit back to the main launcher by pressing the GO or ENT key.
 
------
-### Installation:
-Copy the HelloWorld.py file into your `/apps` folder on the MicroHydra device.
+## Usage
 
+1. Launch the HelloWorld app from the MicroHydra launcher
+2. The app will display "Hello World" on the screen
+3. Press the GO or ENT key to exit back to the launcher
 
+## Installation
+
+Copy the `HelloWorld.py` file into your `/apps` folder on the MicroHydra device.
+
+## Author
+
+MicroHydra Community
+
+## License
+
+MIT License
